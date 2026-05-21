@@ -53,8 +53,8 @@ The Penguins/                           <-- Thư mục gốc không gian làm vi
 │   ├── sku_clustering_3_groups.csv     <-- Kết quả phân cụm SKU từ step0
 │   ├── v22_stage1_dual_model.csv       <-- Kết quả GBDT kép từ step1
 │   ├── v22_stage2_decentralized.csv    <-- Kết quả mô hình phi tập trung từ step2
-│   ├── v22_stage3_optimized_blend.csv  <-- Kết quả tối ưu hóa V7 Blend từ step3
-│   ├── v22_stage4_grandmaster_blend.csv<-- Kết quả Blender tổ hợp v18 từ step4
+│   ├── v22_stage3_optimized_blend.csv  <-- Kết quả tối ưu hóa Blend từ step3
+│   ├── v22_stage4_grandmaster_blend.csv<-- Kết quả Blender tổ hợp từ step4
 │   └── v22_final_ultimate_ensemble.csv <-- Kết quả Ultimate Ensemble Dirichlet cuối cùng
 ├── utils_features.py                   <-- Hàm tiện ích xử lý lag & đặc trưng chuỗi thời gian nâng cao
 ├── utils_scorer.py                     <-- Trình chấm điểm Flat WRMSSE cục bộ (Local Scorer)
